@@ -5,7 +5,9 @@ multi-tier-AWS-project
 This repository contains a simple "Hello World" application built using a three-tier architecture. The application demonstrates the fundamental concepts of separating frontend, backend, and database components in a web application.
 
 ## Architecture Overview
-![Uploading aws-three-tier-architecture (1).png…]()
+<img width="3519" height="2684" alt="aws-three-tier-architecture " src="https://github.com/user-attachments/assets/a681c19b-f493-4b40-9d73-e7aa3ed99c16" />
+
+
 
 
 # Hello World Three-Tier Application
