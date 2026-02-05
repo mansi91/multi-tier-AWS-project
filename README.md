@@ -159,9 +159,6 @@ This is a demo application and lacks several security features that would be nec
 - Protection against SQL injection (although PDO with prepared statements is used)
 - CORS configuration
 
-## License
-
-This project is released under the MIT License.
 
 ## Acknowledgements
 t text](aws-three-tier-architecture.png)
@@ -302,9 +299,6 @@ This is a demo application and lacks several security features that would be nec
 - Protection against SQL injection (although PDO with prepared statements is used)
 - CORS configuration
 
-## License
-
-This project is released under the MIT License.
 
 ## Acknowledgements
 (aws-three-tier-architecture.png)
