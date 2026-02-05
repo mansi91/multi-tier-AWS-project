@@ -17,7 +17,7 @@ This repository contains a simple "Hello World" application built using a three-
 
 ## Architecture Overview
 
-![alt text](aws-three-tier-architecture.png)
+(aws-three-tier-architecture.png)
 
 The application follows the classic three-tier architecture:
 
